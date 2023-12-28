@@ -1,3 +1,3 @@
 # testrepo
 For git and github basics course. 
-Test commit changes
+It's a markdown file in this repository
